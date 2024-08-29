@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Bootstrap Example</title>
+
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+</head>
+<body>
+    <script>
+        var name="She didn't like the food. She never did.She made the usual complaints and started "
+
+           document.write(name.toUpperCase())
+           document.write(name.toLowerCase())
+           </script>
+           </body>
+           </html>

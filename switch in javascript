@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bootstrap</title>
+
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+</head>
+<body>
+    <script>
+        var marks=80;
+        switch(marks){
+            case 30:
+            document.write("Grade C")
+            break;
+        
+        case 80:
+            document.write("Grade A")
+            break;
+            case 70:
+            document.write("Grade D")
+            break;
+            case 90:
+            document.write("Grade E")
+            break;}
+    </script>
+</body>
+</html>
