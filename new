@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Bootstrap Example</title>
+
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+</head> <body>
+    <script>
+    var student = {
+        rollno:21,
+        name:"Shreeya",
+        subject:"Physics"}
+        document.write(student.name "<br> " + student.rollno  +student.subject)
+    
+    </script>
