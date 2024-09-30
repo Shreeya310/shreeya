@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Bootstrap Example</title>
+  <script>
+    function myFunction(){
+        var x = document.forms["Javascriptt"]["Name"].value
+        var y = document.forms["Javascriptt"]["Email"].value
+        if(x ===""){
+        document.write("Kindly Enter Your Name")}
+        else if(y ===""){
+          document.write("Kindly Enter Your Email")
+        }
+    }
+  </script>
+</head> <body>
+    <form name="JavaScriptt"
+    onsubmit="myFunction()">
+Name: <input name="Name"> 
+<br>
+Email:<input name="Email">
+<br>
+<input type="Submit">
+</form>
+</body>
+</html>
